@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3372231,
       "digest": "sha256:604900a6d0e75c6a0c0e9be1a6b17c3199a52f28d4bb3c235daa25cbacaa243d",
-      "download_count": 121,
+      "download_count": 124,
       "created_at": "2025-08-27T16:03:30Z",
       "updated_at": "2025-08-27T16:03:31Z",
       "browser_download_url": "https://github.com/ericschmar/moribito/releases/download/v0.2.6/moribito_Linux_x86_64.tar.gz"
