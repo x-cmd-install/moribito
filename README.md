@@ -46,12 +46,12 @@ Total: **35,619** lines of code across **130** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-30 | 0 | 4 | 1 | 3 | 2 | 53 |
-| last720d | 2024-10-05 | 6 | 79 | 2 | 37 | 7 | 355 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-01 | 0 | 4 | 1 | 3 | 2 | 53 |
+| last720d | 2024-10-06 | 6 | 79 | 2 | 37 | 7 | 355 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for moribito lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:26:35Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:25:33Z._
